@@ -24,8 +24,8 @@ export default function App() {
             content: step1Content
           },
           {
-            label: "Introduction to Travelers",
-            name: "Introduction to Travelers",
+            label: "Introduction to ABC",
+            name: "Introduction to ABC",
             content: step2Content,
             validator: step2Validator
           },
